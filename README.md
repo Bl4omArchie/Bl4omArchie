@@ -28,7 +28,7 @@ I'm a second year student in Computing Science passionate about algorithm implem
 </a> </p>
 
 
-<h3 align="left>There is some stats abou my repository:</h3>
+<h3 align="left">There is some stats abou my repository: </h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bl4omarchie&show_icons=true&locale=en&layout=compact" alt="bl4omarchie" /></p>
 
